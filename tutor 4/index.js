@@ -1,6 +1,6 @@
 const Discord = require("discord.js") 
 const client = new Discord.Client(); 
-client.login("NTYyMjMwMjExNzgxOTg0MjU2.Xjl80A.OF3gY31_1RrwH7wqRQpAusKHG6k");
+client.login("ВАШ ТОКЕН");
 
 var settedChannel = "734086104164204544";
 
